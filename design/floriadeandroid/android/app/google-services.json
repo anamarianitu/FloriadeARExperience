@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24033311538",
+    "project_id": "floriade-c05e6",
+    "storage_bucket": "floriade-c05e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24033311538:android:833e4c94ce946dd3a4352b",
+        "android_client_info": {
+          "package_name": "com.floriadeandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24033311538-hughjnd37gd3la1sa4d6vs8ioii90ote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzm3IOFGe8cMwLUO7SuMlXimiGtkwfG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24033311538-hughjnd37gd3la1sa4d6vs8ioii90ote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
